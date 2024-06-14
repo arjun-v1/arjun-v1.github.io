@@ -48,6 +48,10 @@ body{
 
 }
 
+.cover.cover-left{
+    z-index: -1;
+}
+
 .cover.cover-right.turn {
     transform: rotateY('180deg');
 }
