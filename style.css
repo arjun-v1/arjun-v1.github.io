@@ -33,8 +33,6 @@ body{
     position: relative;
     width: 66rem;
     height: 45rem;
-    background: red;
-
 }
 
 .cover {
@@ -54,5 +52,5 @@ body{
 }
 
 .cover.cover-right.turn {
-    transform: rotateY('180deg');
+    transform: rotateY(180deg);
 }
